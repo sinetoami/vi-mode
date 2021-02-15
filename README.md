@@ -1,5 +1,6 @@
 vi-mode
 =======
+## :warning: this repository was transferred to another owner: [sineto/vi-mode](https://github.com/sineto/vi-mode).
 This plugin increase `vi-like` zsh functionality.
 
 Use `ESC` or `CTRL-[` to enter `Normal mode`.
